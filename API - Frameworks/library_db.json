@@ -1,0 +1,55 @@
+{
+    "books": [
+        {
+            "id": "buid1",
+            "title": "A song of ice and fire 1",
+            "author": "George R. R. Martin",
+            "pages": 700,
+            "category": "Fantasy"
+        },
+        {
+            "id": "buid2",
+            "title": "Moara cu noroc",
+            "author": "Ioan Slavici",
+            "pages": 50,
+            "category": "Nouvel"
+        },
+        {
+            "id": "buid3",
+            "title": "A song of ice and fire 2",
+            "author": "George R. R. Martin",
+            "pages": 680,
+            "category": "Fantasy"
+        }
+    ],
+    "users": [
+        {
+            "id": "uuid1",
+            "name": "primul",
+            "email": "primul@mylib.com",
+            "password": "1111",
+            "is_logged": false
+        },
+        {
+            "id": "uuid2",
+            "name": "second",
+            "email": "second@mylib.com",
+            "password": "2222",
+            "is_logged": false
+        },
+        {
+            "id": "uuid3",
+            "name": "terzo",
+            "email": "terzo@mylib.com",
+            "password": "3333",
+            "is_logged": false
+        },
+        {
+            "name": "qwer",
+            "email": "qwer@lib.com",
+            "password": "1234",
+            "is_logged": false,
+            "id": "9d158a01-5b8c-4320-b3cd-f73187589760"
+        }
+    ]
+}
